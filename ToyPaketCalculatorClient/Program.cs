@@ -6,7 +6,7 @@ namespace ToyPaketCalculatorClient
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ToyPaketCalculator.Calculator.add(3, 5));
+            Console.WriteLine(ToyPaketCalculator.Calculator.substract(3, 5));
         }
     }
 }
