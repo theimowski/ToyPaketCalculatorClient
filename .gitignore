@@ -2,4 +2,5 @@
 bin/
 obj/
 paket.exe
+paket.local
 packages/
